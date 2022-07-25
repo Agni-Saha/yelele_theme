@@ -1,6 +1,7 @@
 # theme_style
 
-A new Flutter project.
+In the main.dart, you'll find the list of themes in MaterialApp widget.
+Add values for TextTheme
 
 ## Getting Started
 
